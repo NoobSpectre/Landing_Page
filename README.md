@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NoobSpectre/Netflix_Home_Page_Using_HTML_And_CSS.git
+git clone https://github.com/NoobSpectre/Landing_Page.git
 ```
 
 2. Open the project in your preferred code editor.
